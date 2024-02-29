@@ -1,4 +1,4 @@
-# Telengana-Growth-Analysis
+# Telangana-Growth-Analysis
 
 ### Introduction
 
