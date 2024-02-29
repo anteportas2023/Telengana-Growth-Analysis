@@ -115,18 +115,22 @@ The TS-iPASS dataset in Telangana comprises data concerning units or businesses 
 
 ### Top 5 districts with the highest document registration
 
-![Top 5 districts with the highest document registration](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Top%205%20districts%20with%20the%20highest%20document%20registration.png)
+![Top 5 districts with the highest document registration](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/top%205%20districts%20that%20showed%20the%20highest%20document%20registration%20revenue%20growth%20between%20FY%202019%20and%202022.png)
 
 #### Insights:
 
+- Document Revenue growth can be attributed to several factors: the construction of roads, highways, and industrial zones
+- An increase in property transactions, both for homes and businesses.These factors have contributed significantly to the rise in revenue in these districts.
 
- - This top 5 districts are Generated 80% of the total Document Revenue.
- - Rangareddy leads the 44%, while Medchal Malkajgiri follows with 26%. Hyderabad, Sangareddy, and Hanumakonda collectively make up to 28%.
- - These districts have Urban infrastructure Development, educational institutions, IT and Commercial Spaces, and transportation connectivity.
+
 
 ### top 5 districts where e-stamps revenue contributes significantly more to the revenue than the documents in FY 2022
 
-![top 5 districts where e-stamps revenue contributes significantly more to the revenue than the documents in FY 2022](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/top%205%20districts%20where%20e-stamps%20revenue%20contributes%20significantly%20more%20to%20the%20revenue%20than%20the%20documents%20in%20FY%202022.png)
+![top 5 districts where e-stamps revenue contributes significantly more to the revenue than the documents in FY 2022](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Top%205%20districts%20of%20doc_rev%20compare%20to%20estamp_challan%202022.png)
+
+#### Insights:
+
+- Janogaon, Nirmal, Mancherial, Rangareddy and Kamareddy, as increasing importance of electronic stamping as a preferred method of revenue collection in these districts, highlighting the growing digitalization of administrative processes.
 
 ### e-Stamp challan count and document registration count pattern
 
@@ -140,13 +144,13 @@ The TS-iPASS dataset in Telangana comprises data concerning units or businesses 
 - It's important to note that data for e-stamp registration is available from December 2020 onwards.
 - There was another drop in May 2021 due to the COVID-19 lockdown. Overall, we can see that both document and e-stamp counts became relatively similar in each month.
 
-### Variation of stamp registration across districts in Telangana in 2021 and 2022
+### Segmentation of stamp registration across districts in Telangana in 2021 and 2022
 
-![Variation of stamp registration across districts in Telangana in 2021 and 2022](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Variation%20%20of%20stamp%20registration%20across%20districts%20in%20Telangana%20in%202021%20and%202022.png)
+![Segmentation of stamp registration across districts in Telangana in 2021 and 2022](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/District%20Wise%20Segment.png)
 
 ### Fuel category by Year and Month
 
-![Fuel category by Year and Month](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Fuel%20category%20by%20Year%20and%20Month.png)
+![Fuel category by Year and Month](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Fuel%20Category%20by%20Year%20and%20Month.png)
 
 #### Insights:
 
@@ -156,22 +160,34 @@ The TS-iPASS dataset in Telangana comprises data concerning units or businesses 
 
 ### Distribution of Vehicles by District
 
-![Distribution of Vehicles by District](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Distribution%20of%20Vehicles%20by%20District.png)
-
-### Top 3 Fuel Type Vehicles sales Growth % in FY 2022 compare to 2021
-
-![Top 3 Fuel Type Vehicles sales Growth % in FY 2022 compare to 2021](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Top%203%20Fuel%20Type%20Vehicles%20sales%20Growth%20%25%20in%20FY%202022%20compare%20to%202021.png)
+![Distribution of Vehicles by District](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Distribution%20Of%20Vehicles%20by%20District%20in%20FY%202022%20.png)
 
 #### Insights:
-- Top 3 districts with fuel sales growth in 2022 compared to 2021 are Rangareddy leads with an impressive 12.5% growth rate, followed closely by Hyderabad at 4.7%, and Karimnagar at 4.4%. These growth figures highlight the robust economic activity and urbanization trends in these districts.
 
-### Bottom 3 Fuel Type Vehicles sales Growth % in FY 2022 compare to 2021
+- I have found a useful insight that justify why agriculture vehicle are predominant in some districts. It is the urban population. District with low urban population prefer agriculture vehicles more.
+- Motorcycle and MotorCar counts exhibit a positive correlation, indicates that as one increases, the other tend to increase as well. 
 
-![Bottom 3 Fuel Type Vehicles sales Growth % in FY 2022 compare to 2021](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Bottom%203%20Fuel%20Type%20Vehicles%20sales%20Growth%20%25%20in%20FY%202022%20compare%20to%202021.png)
+### Top 3 and Bottom 3 Diesel sales Growth % in FY 2022 compare to 2021
+
+![Top 3 Fuel Type Vehicles sales Growth % in FY 2022 compare to 2021](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Diesel%20Sales%20Growth%20%25.png)
 
 #### Insights:
-- Bottom 3 Districts in vehicle sales in 2022 compared to 2021 Warangal, Jagtial, and Nirmal districts faced substantial drops in vehicle sales at -44.7%, -37.1%, and -34.4% respectively
-- These declines highlight the need to tailor business approaches to fit local market. changing consumer preferences
+- For Diesel top 3 are Karimnagar,SangaReddy and RangaReddy and bottom 3 are Jangaon, Mahabubabad and Warangal.
+
+### Top 3 and  Bottom 3 Petrol sales Growth % in FY 2022 compare to 2021
+
+![Top 3 and  Bottom 3 Electric sales Growth % in FY 2022 compare to 2021](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Electric%20Sales%20Growth%20%25.png)
+
+#### Insights:
+- For Petrol top 3 are RangaReddy, Hyderabad and Medchal and bottom are Jagtial, Nirmal and Warangal.
+
+
+### Top 3 and  Bottom 3 Electric sales Growth % in FY 2022 compare to 2021
+
+![Top 3 and  Bottom 3 Petrol sales Growth % in FY 2022 compare to 2021](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Petrol%20Sales%20Growth%20%25.png)
+
+#### Insights:
+- In electric there is a growth of over  100% in FY2022 leading by Khammam, Bhadradri and Suryapet.
 
 ### Total investment_cr by top 5 sector in 2022
 
@@ -194,15 +210,23 @@ The TS-iPASS dataset in Telangana comprises data concerning units or businesses 
 - Medchal_malkajgiri investment in pharmaceutical, and chemical engineering Sectors.
 - These districts have strategic location, robust infrastructure, government support.
 
-### Top 10 Districts multiple sectors Investments between FY 2021 and 2022
+### Sectors with substantial investment in multiple districts between FY 2021 and 2022
 
-![Top 10 Districts multiple sectors Investments between FY 2021 and 2022](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Top%2010%20Districts%20multiple%20sectors%20Investments%20between%20FY%202021%20and%202022.png)
+![Sectors with substantial investment in multiple districts between FY 2021 and 2022](https://github.com/anteportas2023/Telengana-Growth-Analysis/blob/main/Screen%20Shots/Sectors%20with%20substantial%20investment%20in%20multiple%20districts%20between%20FY%202021%20and%202022.png)
 
 #### Insights:
-- Rangareddy top investment in Real Estate & Parks
-- Sangareddy, Medchal, Yadadri Bhuvanagiri, Nalgonda as investment in Pharmaceutical & Chemicals
-- In Medak have invest in Engineering
-- Narayanpet, Siddipet have Beverages, Agro & Cold Storages
+- Top sectors which shows substantial investments in multiple districts between FY 2021 and 2022 are:
+ 1. Pharmaceuticals and Chemicals
+
+ 2. Plastics and Rubber
+
+ 3. Engineering
+
+ 4. Food Processing
+
+ 5. Beverages
+
+So, these are the 5 sectors led by Pharmaceuticals and plastic & rubber industries which gets substantial investments across multiple districts.  
 
 ### Total investment in cr by Year and Month
 
